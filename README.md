@@ -1,16 +1,16 @@
-# Hi 👋, I'm Nasim Uddin
+# Hi, I'm Nasim Uddin
 
-## 📊 Data Analyst | Statistics Graduate
+## Data Analyst | Statistics Graduate
 
 I am passionate about turning raw data into meaningful business insights through data analysis, visualization, and statistical modeling.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 B.Sc. in Statistics, Dhaka College
-- 💻 Data Analyst
-- 🌱 Currently learning Advanced SQL, Power BI & Machine Learning
+-  B.Sc. in Statistics, Dhaka College
+-  Data Analyst
+-  Currently learning Advanced SQL, Power BI & Machine Learning
 
 ---
 
@@ -39,21 +39,21 @@ I am passionate about turning raw data into meaningful business insights through
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-- 🚢 Titanic Survival Prediction
-- 📊 COVID-19 Data Analysis
-- 🛠 SQL Data Cleaning Project
-- 📈 SQL Practice Analysis
+-  Titanic Survival Prediction
+-  COVID-19 Data Analysis
+-  SQL Data Cleaning Project
+-  SQL Practice Analysis
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 Email: nasimuddin836@gmail.com
+ Email: nasimuddin836@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/nasim-uddin-0890821ab
+ LinkedIn: www.linkedin.com/in/nasim-uddin-0890821ab
 
-🐙 GitHub: github.com/Nasim43
+ GitHub: github.com/Nasim43
 
-🏆 Kaggle: kaggle.com/NasimUddin
+ Kaggle: kaggle.com/NasimUddin
